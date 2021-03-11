@@ -1,11 +1,5 @@
 package javase;
 
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
-
-import org.junit.Test;
-
 public class Singleton {
 	private static Singleton instance;
 
